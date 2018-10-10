@@ -1,9 +1,9 @@
 This is another file.
 
->>>>>>> HEAD
 
 Sheereen
 I am sheereen
 =======
 <Snorlxx--->This is my poop..Don't touch it please>
->>>>>>> 7f15439b468ae484223d1211bc7790a03913d7c2
+
+<Snrlxx this is my second Poop>
